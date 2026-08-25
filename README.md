@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8B5CF6&height=230&section=header&text=Hi%20there,%20I'm%20Unzila%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20%26%20Agentic%20AI%20Engineer%20%7C%20LangGraph%20%7C%20Voice%20AI&descAlignY=55&descSize=16&descColor=E9D8FD">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F59E0B&height=230&section=header&text=Hi%20there,%20I'm%20Unzila%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20%26%20Agentic%20AI%20Engineer%20%7C%20LangGraph%20%7C%20Voice%20AI&descAlignY=55&descSize=16&descColor=fff5f5" alt="header banner">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnzilaSohail/UnzilaSohail/main/assets/banner-light.svg">
+  <img src="https://raw.githubusercontent.com/UnzilaSohail/UnzilaSohail/main/assets/banner-dark.svg" width="100%" alt="Unzila Anjum — AI Automation & Agentic AI Engineer">
 </picture>
 
 <picture>
@@ -162,42 +162,23 @@ OpenAI-integrated tool that reads source functions and auto-generates unit tests
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UnzilaSohail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=EC4899&icon_color=8B5CF6&text_color=E5E7EB">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=UnzilaSohail&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=6D28D9&icon_color=EC4899&text_color=1f2328" alt="github stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=UnzilaSohail&theme=tokyonight&hide_border=true&background=00000000&ring=EC4899&fire=F59E0B&currStreakLabel=E5E7EB">
+  <img src="https://streak-stats.demolab.com/?user=UnzilaSohail&theme=default&hide_border=true&background=ffffff00&ring=8B5CF6&fire=EC4899&currStreakLabel=1f2328" alt="streak stats">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UnzilaSohail&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=EC4899&text_color=E5E7EB">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnzilaSohail&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=6D28D9&text_color=1f2328" alt="top languages">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=UnzilaSohail&theme=tokyonight&hide_border=true&background=00000000&ring=EC4899&fire=F59E0B&currStreakLabel=E5E7EB">
-  <img src="https://streak-stats.demolab.com/?user=UnzilaSohail&theme=default&hide_border=true&background=ffffff00&ring=8B5CF6&fire=EC4899&currStreakLabel=1f2328" alt="streak stats">
-</picture>
+<br>
+
+<img src="https://img.shields.io/github/followers/UnzilaSohail?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/UnzilaSohail?affiliations=OWNER&label=Stars&style=for-the-badge&color=EC4899&logo=github&logoColor=white" />
 
 </div>
 
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=UnzilaSohail&theme=algolia&no-frame=true&row=1&column=7&margin-w=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=UnzilaSohail&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="trophies">
-</picture>
-
-</div>
-
-<br>
-
-## 📈 Activity Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=UnzilaSohail&theme=react-dark&hide_border=true&bg_color=00000000&color=EC4899&line=8B5CF6&point=F59E0B">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UnzilaSohail&theme=minimal&hide_border=true&bg_color=ffffff00&color=6D28D9&line=EC4899&point=F59E0B" alt="activity graph">
-</picture>
+<sub>⚠️ the top-languages card runs on the free shared <code>github-readme-stats.vercel.app</code> instance, which occasionally 503s under load — if it looks broken when you view this, it's that service, not this file; refresh in a bit or <a href="https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats">self-host your own copy</a> for a permanent fix.</sub>
 
 <br>
 
@@ -223,10 +204,8 @@ OpenAI-integrated tool that reads source functions and auto-generates unit tests
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8B5CF6&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F59E0B&height=120&section=footer" alt="footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnzilaSohail/UnzilaSohail/main/assets/footer-light.svg">
+  <img src="https://raw.githubusercontent.com/UnzilaSohail/UnzilaSohail/main/assets/footer-dark.svg" width="100%" alt="Thanks for stopping by">
 </picture>
-
-**Thanks for stopping by — let's build something intelligent together 🚀**
 
 </div>
