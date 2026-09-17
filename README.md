@@ -19,6 +19,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=UnzilaSohail&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="profile views"/>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%">
+
 </div>
 
 <br>
@@ -42,7 +46,9 @@ fun_fact: "I ship agents that talk back — sometimes correctly 😄"
 - 💬 Ask me about **LangGraph, RAG pipelines, multi-agent architectures or FastAPI backends**
 - 📫 Reach me at **unzilaas9@gmail.com**
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%">
+</div>
 
 ## ⚙️ Tech Stack
 
@@ -92,7 +98,9 @@ fun_fact: "I ship agents that talk back — sometimes correctly 😄"
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%">
+</div>
 
 ## 🚀 Flagship Projects
 
@@ -103,7 +111,7 @@ fun_fact: "I ship agents that talk back — sometimes correctly 😄"
 ### 🎙️ [Jarvis / SparkMind](https://github.com/UnzilaSohail)
 Real-time voice AI assistant with persistent memory & tool calling, orchestrated across a **7-agent manager architecture** with strict JSON contracts. Containerized with Docker + Celery/Redis.
 
-`Gemini Live` `FastAPI` `Docker` `Celery` `Redis`
+<img src="https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -111,7 +119,7 @@ Real-time voice AI assistant with persistent memory & tool calling, orchestrated
 ### 📄 [Z360 Job Recruiting Screener](https://github.com/UnzilaSohail)
 LangGraph deep agent that screens PDF/DOCX/CSV resumes against job rubrics, producing ranked shortlists via SSE streaming. Includes a labeled evaluation harness for agent judgment.
 
-`LangGraph` `deepagents` `Supabase` `Next.js`
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/deepagents-6D28D9?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
 
 </td>
 </tr>
@@ -121,7 +129,7 @@ LangGraph deep agent that screens PDF/DOCX/CSV resumes against job rubrics, prod
 ### 📖 [AI Storytelling Platform — EchoTales](https://github.com/UnzilaSohail)
 Multimodal storytelling engine using Llama/Mistral for adaptive narratives + fine-tuned Stable Diffusion for scenes. Emotion-aware voice via Bark/ElevenLabs/Coqui/Kokoro — 20+ story paths.
 
-`Python` `Flask` `PyTorch` `Stable Diffusion` `Voice AI`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Stable_Diffusion-6D28D9?style=flat-square&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +137,7 @@ Multimodal storytelling engine using Llama/Mistral for adaptive narratives + fin
 ### 🎓 [Education & Learning Multi-Agent System](https://github.com/UnzilaSohail)
 Distributed learning platform with **18+ specialized agents**, async communication, and workflow orchestration across the whole learning pipeline.
 
-`LangGraph` `React` `Gemini API`
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 
 </td>
 </tr>
@@ -141,35 +149,45 @@ Distributed learning platform with **18+ specialized agents**, async communicati
 
 ## 🛠️ More Projects
 
-| Project | What it does | Links |
-|---|---|---|
-| **[Booking Call Center Agent](https://github.com/UnzilaSohail/Booking-Call-Center-Agent)** | Voice/chat agent that automates call-center style booking flows end to end | [Repo](https://github.com/UnzilaSohail/Booking-Call-Center-Agent) |
-| **[FridgeChef](https://github.com/UnzilaSohail/FridgeChef)** | AI recipe generator that turns whatever's in your fridge into a full recipe | [Repo](https://github.com/UnzilaSohail/FridgeChef) · [Live](https://fridge-chef-blond-two.vercel.app) |
-| **[Ingredient Detector](https://github.com/UnzilaSohail/ingredient-detector)** | Vision-based detector that identifies ingredients from an image | [Repo](https://github.com/UnzilaSohail/ingredient-detector) · [Live](https://ingredient-detector.vercel.app) |
-| **[Red Flag Detector](https://github.com/UnzilaSohail/Red-Flag-detector)** | LLM app that scans text/chat conversations and flags red-flag behavior | [Repo](https://github.com/UnzilaSohail/Red-Flag-detector) · [Live](https://red-flag-detector-eight.vercel.app) |
-| **[Privacy Policy Reader](https://github.com/UnzilaSohail/Privacy-policy-reader)** | Summarizes long privacy policies into plain-language, skimmable takeaways | [Repo](https://github.com/UnzilaSohail/Privacy-policy-reader) · [Live](https://privacy-policy-reader.vercel.app) |
-| **[Job Recruitment Agent](https://github.com/UnzilaSohail/job_recruitment_agent)** | Agentic pipeline for sourcing and screening candidates against a job spec | [Repo](https://github.com/UnzilaSohail/job_recruitment_agent) · [Live](https://job-recruitment-agent.vercel.app) |
-| **[Raqam](https://github.com/UnzilaSohail/Raqam)** | Numerical/data-driven utility project | [Repo](https://github.com/UnzilaSohail/Raqam) |
-| **[Website Page Summarizer](https://github.com/UnzilaSohail/Website_Page_Summarizer)** | Summarizes any webpage into key points on demand | [Repo](https://github.com/UnzilaSohail/Website_Page_Summarizer) |
-| **[AI Debate Bot](https://github.com/UnzilaSohail/Ai_Debate_Bot)** | LLM agent that argues both sides of a topic in a structured debate format | [Repo](https://github.com/UnzilaSohail/Ai_Debate_Bot) |
-| **[AI Bug Reporter](https://github.com/UnzilaSohail/ai-bug-reporter)** | Chrome extension + backend that turns a bug repro into a structured, AI-written report | [Repo](https://github.com/UnzilaSohail/ai-bug-reporter) |
-| **[PR Secure Bot](https://github.com/UnzilaSohail/PR_Secure_Bot)** | Automated security review bot for pull requests | [Repo](https://github.com/UnzilaSohail/PR_Secure_Bot) |
+<div align="center">
 
-<br>
+| Project | What it does | Stack | Links |
+|---|---|:---:|:---:|
+| 🍽️ **[FridgeChef](https://github.com/UnzilaSohail/FridgeChef)** | AI recipe generator that turns whatever's in your fridge into a full recipe | `Next.js` `LLM` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/FridgeChef) [![Live](https://img.shields.io/badge/-Live-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://fridge-chef-blond-two.vercel.app) |
+| 🥕 **[Ingredient Detector](https://github.com/UnzilaSohail/ingredient-detector)** | Vision-based detector that identifies ingredients from an image | `CV` `Next.js` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/ingredient-detector) [![Live](https://img.shields.io/badge/-Live-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://ingredient-detector.vercel.app) |
+| 🚩 **[Red Flag Detector](https://github.com/UnzilaSohail/Red-Flag-detector)** | LLM app that scans text/chat conversations and flags red-flag behavior | `LLM` `NLP` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/Red-Flag-detector) [![Live](https://img.shields.io/badge/-Live-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://red-flag-detector-eight.vercel.app) |
+| 🔒 **[Privacy Policy Reader](https://github.com/UnzilaSohail/Privacy-policy-reader)** | Summarizes long privacy policies into plain-language, skimmable takeaways | `LLM` `Summarization` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/Privacy-policy-reader) [![Live](https://img.shields.io/badge/-Live-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://privacy-policy-reader.vercel.app) |
+| 🧑‍💼 **[Job Recruitment Agent](https://github.com/UnzilaSohail/job_recruitment_agent)** | Agentic pipeline for sourcing and screening candidates against a job spec | `Agents` `LLM` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/job_recruitment_agent) [![Live](https://img.shields.io/badge/-Live-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://job-recruitment-agent.vercel.app) |
+| 📞 **[Booking Call Center Agent](https://github.com/UnzilaSohail/Booking-Call-Center-Agent)** | Voice/chat agent that automates call-center style booking flows end to end | `Voice AI` `Agents` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/Booking-Call-Center-Agent) |
+| 🔢 **[Raqam](https://github.com/UnzilaSohail/Raqam)** | Numerical/data-driven utility project | `Python` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/Raqam) |
+| 🌐 **[Website Page Summarizer](https://github.com/UnzilaSohail/Website_Page_Summarizer)** | Summarizes any webpage into key points on demand | `LLM` `Web` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/Website_Page_Summarizer) |
+| 🗣️ **[AI Debate Bot](https://github.com/UnzilaSohail/Ai_Debate_Bot)** | LLM agent that argues both sides of a topic in a structured debate format | `LLM` `Agents` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/Ai_Debate_Bot) |
+| 🐞 **[AI Bug Reporter](https://github.com/UnzilaSohail/ai-bug-reporter)** | Chrome extension + backend that turns a bug repro into a structured, AI-written report | `Chrome Ext` `LLM` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/ai-bug-reporter) |
+| 🛡️ **[PR Secure Bot](https://github.com/UnzilaSohail/PR_Secure_Bot)** | Automated security review bot for pull requests | `DevSecOps` `LLM` | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/UnzilaSohail/PR_Secure_Bot) |
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%">
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UnzilaSohail&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=6D28D9&icon_color=EC4899&text_color=1f2328&ring_color=8B5CF6" alt="github stats" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnzilaSohail&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=6D28D9&text_color=1f2328" alt="top languages">
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=UnzilaSohail&theme=tokyonight&hide_border=true&background=00000000&ring=EC4899&fire=F59E0B&currStreakLabel=E5E7EB">
   <img src="https://streak-stats.demolab.com/?user=UnzilaSohail&theme=default&hide_border=true&background=ffffff00&ring=8B5CF6&fire=EC4899&currStreakLabel=1f2328" alt="streak stats">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UnzilaSohail&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=EC4899&text_color=E5E7EB">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnzilaSohail&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=6D28D9&text_color=1f2328" alt="top languages">
-</picture>
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=UnzilaSohail&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies" />
 
 <br>
 
@@ -178,9 +196,13 @@ Distributed learning platform with **18+ specialized agents**, async communicati
 
 </div>
 
-<sub>⚠️ the top-languages card runs on the free shared <code>github-readme-stats.vercel.app</code> instance, which occasionally 503s under load — if it looks broken when you view this, it's that service, not this file; refresh in a bit or <a href="https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats">self-host your own copy</a> for a permanent fix.</sub>
+<sub>⚠️ the stats/languages/trophy cards run on free shared instances (Vercel-hosted), which occasionally 503 under load — if any of them look broken when you view this, it's that service, not this file; refresh in a bit or self-host your own copy for a permanent fix.</sub>
 
 <br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%">
+</div>
 
 ## 🐍 Contribution Snake
 
