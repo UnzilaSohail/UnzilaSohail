@@ -94,7 +94,7 @@ fun_fact: "I ship agents that talk back — sometimes correctly 😄"
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
 
 <table>
 <tr>
@@ -133,27 +133,27 @@ Distributed learning platform with **18+ specialized agents**, async communicati
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 [Question Anticipator Agent](https://github.com/UnzilaSohail)
-LangGraph agent predicting exam questions from syllabus/past papers via RAG, with multi-LLM support across Gemini, OpenAI & Anthropic.
-
-`LangGraph` `RAG` `ChromaDB` `FastAPI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [Automated AI Test Case Generator](https://github.com/UnzilaSohail)
-OpenAI-integrated tool that reads source functions and auto-generates unit tests — **+80% test coverage**, **-60% manual effort**.
-
-`React` `Node.js` `OpenAI` `JavaScript`
-
-</td>
-</tr>
 </table>
 
 <div align="center"><sub>⭐ replace the placeholder links above with your actual repo URLs once pinned</sub></div>
+
+<br>
+
+## 🛠️ More Projects
+
+| Project | What it does | Links |
+|---|---|---|
+| **[Booking Call Center Agent](https://github.com/UnzilaSohail/Booking-Call-Center-Agent)** | Voice/chat agent that automates call-center style booking flows end to end | [Repo](https://github.com/UnzilaSohail/Booking-Call-Center-Agent) |
+| **[FridgeChef](https://github.com/UnzilaSohail/FridgeChef)** | AI recipe generator that turns whatever's in your fridge into a full recipe | [Repo](https://github.com/UnzilaSohail/FridgeChef) · [Live](https://fridge-chef-blond-two.vercel.app) |
+| **[Ingredient Detector](https://github.com/UnzilaSohail/ingredient-detector)** | Vision-based detector that identifies ingredients from an image | [Repo](https://github.com/UnzilaSohail/ingredient-detector) · [Live](https://ingredient-detector.vercel.app) |
+| **[Red Flag Detector](https://github.com/UnzilaSohail/Red-Flag-detector)** | LLM app that scans text/chat conversations and flags red-flag behavior | [Repo](https://github.com/UnzilaSohail/Red-Flag-detector) · [Live](https://red-flag-detector-eight.vercel.app) |
+| **[Privacy Policy Reader](https://github.com/UnzilaSohail/Privacy-policy-reader)** | Summarizes long privacy policies into plain-language, skimmable takeaways | [Repo](https://github.com/UnzilaSohail/Privacy-policy-reader) · [Live](https://privacy-policy-reader.vercel.app) |
+| **[Job Recruitment Agent](https://github.com/UnzilaSohail/job_recruitment_agent)** | Agentic pipeline for sourcing and screening candidates against a job spec | [Repo](https://github.com/UnzilaSohail/job_recruitment_agent) · [Live](https://job-recruitment-agent.vercel.app) |
+| **[Raqam](https://github.com/UnzilaSohail/Raqam)** | Numerical/data-driven utility project | [Repo](https://github.com/UnzilaSohail/Raqam) |
+| **[Website Page Summarizer](https://github.com/UnzilaSohail/Website_Page_Summarizer)** | Summarizes any webpage into key points on demand | [Repo](https://github.com/UnzilaSohail/Website_Page_Summarizer) |
+| **[AI Debate Bot](https://github.com/UnzilaSohail/Ai_Debate_Bot)** | LLM agent that argues both sides of a topic in a structured debate format | [Repo](https://github.com/UnzilaSohail/Ai_Debate_Bot) |
+| **[AI Bug Reporter](https://github.com/UnzilaSohail/ai-bug-reporter)** | Chrome extension + backend that turns a bug repro into a structured, AI-written report | [Repo](https://github.com/UnzilaSohail/ai-bug-reporter) |
+| **[PR Secure Bot](https://github.com/UnzilaSohail/PR_Secure_Bot)** | Automated security review bot for pull requests | [Repo](https://github.com/UnzilaSohail/PR_Secure_Bot) |
 
 <br>
 
